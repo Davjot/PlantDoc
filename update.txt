@@ -1,5 +1,11 @@
 applied only on 80 images of 8 classes
 
 (Ongoing work)
+ applied two models: 
+ 
+ inceptionrensnetv2 : image size was set to 299, 299, 3 and batch_size is set to 32.
+ 
+ densenet201: image size was set to 224, 224, 3 and batch_size is set to 8.
+
 Contd..
-new change done : image size changed to 299 x 299 and batch size was set to 32
+ 
