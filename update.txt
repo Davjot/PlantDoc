@@ -1,4 +1,6 @@
-applied only on 80 images of 8 classes
+We will be working on 27 classes containing total of images 2598.
+
+Currently, applied only on 80 images of 8 classes
 
 (Ongoing work)
  applied two models: 
