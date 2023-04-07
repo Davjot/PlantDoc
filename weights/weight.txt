@@ -1,1 +1,0 @@
-We are taking weights of InceptionResNetV2 and DenseNet201 models.
