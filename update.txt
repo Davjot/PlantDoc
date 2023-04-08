@@ -13,5 +13,6 @@ detection work:
 
 70% training, 20% valid & 10% test data.
 image resize to 416 x 416.
+yolov5 model colab file link : https://colab.research.google.com/drive/1_OrU79doiveFZRIGWbktXfijP1TI6jqD#scrollTo=7iiObB2WCMh6
 Contd..
  
