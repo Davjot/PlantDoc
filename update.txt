@@ -12,5 +12,6 @@ Currently, applied only on 80 images of 8 classes
 detection work:
 
 70% training, 20% valid & 10% test data.
+image resize to 416 x 416.
 Contd..
  
