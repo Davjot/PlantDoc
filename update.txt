@@ -9,5 +9,8 @@ Currently, applied only on 80 images of 8 classes
  
  densenet201: image size was set to 224, 224, 3 and batch_size is set to 8.
 
+detection work:
+
+70% training, 20% valid & 10% test data.
 Contd..
  
