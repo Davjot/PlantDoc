@@ -9,6 +9,6 @@ of image size 416x416 using roboflow.
 
 Try: batch size 8, optimiser Adam and epochs 300 on yolov5s model.
 
-trying yolov5 image size 640 with image level augmentation.
+applying 416x416 on yolov5 with image and bounding box augmentation.
 
 Later try: yolov7 model.
