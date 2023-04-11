@@ -7,8 +7,8 @@ Implemented yolov8 model with no augmentation of image size 640x640 using robofl
 Trying yolov5 model with augmentation changes(Flip: horizontal and Vertical, 90deg rotate: counter clockwise , clockwise and upside down) 
 of image size 416x416 using roboflow.
 
-Try: batch size 8, optimiser Adam and epochs 300 on yolov5s model.
+trying yolov5n model with acc of 50s in that model.
 
-applying 416x416 on yolov5 with image and bounding box augmentation.
+and try yolov7 also on that model.
 
 Later try: yolov7 model.
