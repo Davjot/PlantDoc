@@ -1,14 +1,7 @@
 Here discussuion of implementing detection accuracy will be there:
 
-Implemented yolov5 model with no augmentation of image size 416x416 using roboflow.
-
-Implemented yolov8 model with no augmentation of image size 640x640 using roboflow.
-
-Trying yolov5 model with augmentation changes(Flip: horizontal and Vertical, 90deg rotate: counter clockwise , clockwise and upside down) 
-of image size 416x416 using roboflow.
-
 trying yolov5n model with acc of 50s in that model.
 
-and try yolov7 also on that model.
+search for nanodet plus model.
 
-Later try: yolov7 model.
+Later try: yolov7 model on image size 416(version 4).
