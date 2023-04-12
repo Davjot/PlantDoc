@@ -14,9 +14,7 @@ detection work:
 70% training, 20% valid & 10% test data.
 image resize to 416 x 416.
 
+run yolov7 model. 
 
-run yolov8 and yolov7 model. 
-set default size of image for yolov8 model to 640.
-and apply augemnetation steps.
 Contd..
  
