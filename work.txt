@@ -4,4 +4,4 @@ trying yolov5n model with acc of 50s in that model.
 
 search for nanodet plus model.
 
-Later try: yolov7 model on image size 416(version 4).
+try: yolov7 on 640 iamge size.
