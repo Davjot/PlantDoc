@@ -1,7 +1,7 @@
 Here discussuion of implementing detection accuracy will be there:
 
-trying yolov5n model with acc of 50s in that model.
-
 search for nanodet plus model.
+
+trying yolov7 model with batch size 8 on 416 no BB.
 
 try: yolov7 on 640 iamge size.
