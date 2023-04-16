@@ -8,6 +8,8 @@ Currently, applied only on 80 images of 8 classes
  inceptionrensnetv2 : image size was set to 299, 299, 3 and batch_size is set to 32.
  
  densenet201: image size was set to 224, 224, 3 and batch_size is set to 8.
+ 
+ implement the work given in research papers of dn201.
 
 detection work:
 
