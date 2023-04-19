@@ -1,1 +1,0 @@
-This is where you can find the base paper for PlantDoc dataset from which we took dataset for work. 
