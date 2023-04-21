@@ -1,3 +1,0 @@
-Here discussuion of implementing detection accuracy will be there:
-
-search for nanodet plus model.
