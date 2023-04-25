@@ -9,7 +9,7 @@ Build a custom detection model on our dataset.
  
  inceptionrensnetv2 : image size was set to 299, 299, 3 and batch_size is set to 32.
  
- densenet201: image size was set to 224, 224, 3 and batch_size is set to 8.
+ densenet201: image size was set to 224, 224, 3 and batch_size is set to 8.(working on this)
  
 detection work:
 
